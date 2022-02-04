@@ -1,3 +1,5 @@
+![Arushi Agarwal](Arushi.jpeg)
+
 ## **ARUSHI AGARWAL**
 - 212 Garden Ridge Road, Catonsville, MD 21228
 - +1 (341) 500-2323

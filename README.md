@@ -59,11 +59,13 @@ I am an enthusiastic **Software Engineer** and an **aspiring Data Scientist** wi
 ### ***Technical Skills***
 ---
 
-**Languages**: Python, Selenium, Pytest, C++, C Programming, PERL
+**Core Competencies**         : Python, Selenium, Pytest, C++, C Programming, PERL, SQL, Oracle DB
 
-**Tools**: PyCharm, NetBeans, ADE, Perforce, GIT, Appium, Jenkins, Saucelab
+**Python Packages**           : Scikit-learn, PyTorch, Tensorflow, Matplotlib, Seaborn, Pandas, NumPy, Plotly, IPyWidgets
 
-**Other Tools**: JIRA, BugZilla, BugBase, Remedy Tool
+**Programming Tool/Software** : Jupyter Notebook, PyCharm, ADE, Perforce, GIT Hub, Appium, Jenkins, Saucelab
+
+**Work Management Tool**      : JIRA, BugZilla, BugBase, Remedy Tool
 
 ### ***Accomplishments***
 ---
